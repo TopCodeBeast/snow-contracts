@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2021-04-23
-*/
-
 // File: @uniswap\lib\contracts\libraries\TransferHelper.sol
 
 pragma solidity >=0.6.0;
